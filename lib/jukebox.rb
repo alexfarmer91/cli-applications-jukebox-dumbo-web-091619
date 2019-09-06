@@ -59,7 +59,7 @@ def prompt
 end
 
 def run(my_songs)
-  help
+ 
   puts "Please enter a command:"
   user_response = gets.strip
   
